@@ -1,2 +1,2 @@
 # Node Test
-Demo project to learn native fetch and node:test
+Demo project to learn node native fetch and node:test
